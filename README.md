@@ -15,11 +15,11 @@ e.g.<br>
 <h3>Outputs: </h3>
 <p>
  1. With one source:<br>
- <img src="./deepstream_analytics_plugin/op_images/single_source_output.png", height="150", width="100"></img>&nbsp&nbsp&nbsp&nbsp
+ <img src="./deepstream_analytics_plugin/op_images/single_source.png", height="200", width="150"></img>&nbsp&nbsp&nbsp&nbsp
  </p><br>
  
 <p>
  2. OCR on Blur image:<br>
- <img src="./deepstream_analytics_plugin/op_images/multi_source_output.png", height="150", width="100"></img>&nbsp&nbsp&nbsp&nbsp
+ <img src="./deepstream_analytics_plugin/op_images/multi_source.png", height="200", width="150"></img>&nbsp&nbsp&nbsp&nbsp
  </p><br>
 
