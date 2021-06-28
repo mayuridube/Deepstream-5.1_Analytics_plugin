@@ -7,10 +7,19 @@
 
 <h3> Usage:</h3>
 <h6>$ python3 deepstream_nvdsanalytics.py [uri1] [uri2] ... [uriN]<br>
-e.g.
-  $ python3 deepstream_nvdsanalytics.py file:///path/to/.mp4/file file:///path/to/.mp4/file
-  $ python3 deepstream_nvdsanalytics.py rtsp://127.0.0.1/video1 rtsp://127.0.0.1/video2 </h6>
+e.g.<br>
+  $ python3 deepstream_nvdsanalytics.py file:///path/to/.mp4/file file:///path/to/.mp4/file<br>
+  $ python3 deepstream_nvdsanalytics.py rtsp://127.0.0.1/video1 rtsp://127.0.0.1/video2<br> </h6>
   
 
 <h3>Outputs: </h3>
+<p>
+ 1. With one source:<br>
+ <img src="./deepstream_analytics_plugin/op_images/single_source_output.png", height="150", width="100"></img>&nbsp&nbsp&nbsp&nbsp
+ </p><br>
+ 
+<p>
+ 2. OCR on Blur image:<br>
+ <img src="./deepstream_analytics_plugin/op_images/multi_source_output.png", height="150", width="100"></img>&nbsp&nbsp&nbsp&nbsp
+ </p><br>
 
