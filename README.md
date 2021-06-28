@@ -1,4 +1,4 @@
-# Deepstream_with_jetson_nano[NVIDIA]
+# Deepstream_Analytics_Example[NVIDIA]
 
 <h3>Prerequisites:</h3>
 - DeepStreamSDK 5.1<br>
