@@ -6,7 +6,8 @@
 - Gst-python<br>
 
 <h3> Usage:</h3>
-<h6>$ python3 deepstream_nvdsanalytics.py [uri1] [uri2] ... [uriN]<br>
+<h6>$ cd deepstream_analytics_plugin <br>
+  $ python3 deepstream_nvdsanalytics.py [uri1] [uri2] ... [uriN]<br>
 e.g.<br>
   $ python3 deepstream_nvdsanalytics.py file:///path/to/.mp4/file file:///path/to/.mp4/file<br>
   $ python3 deepstream_nvdsanalytics.py rtsp://127.0.0.1/video1 rtsp://127.0.0.1/video2<br> </h6>
