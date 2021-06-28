@@ -20,17 +20,6 @@
 # DEALINGS IN THE SOFTWARE.
 ################################################################################
 
-Prerequisites:
-- DeepStreamSDK 5.1
-- Python 3.6
-- Gst-python
-
-To run:
-  $ python3 deepstream_nvdsanalytics.py <uri1> [uri2] ... [uriN]
-e.g.
-  $ python3 deepstream_nvdsanalytics.py file:///home/ubuntu/video1.mp4 file:///home/ubuntu/video2.mp4
-  $ python3 deepstream_nvdsanalytics.py rtsp://127.0.0.1/video1 rtsp://127.0.0.1/video2
-
 This document describes the sample deepstream-nvdsanalytics application.
 
 This sample builds on top of the deepstream-test3 sample to demonstrate how to:
